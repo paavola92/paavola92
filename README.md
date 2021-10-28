@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paavola92
 - 👀 I’m interested in digital and sustainable development
 - 🌱 I’m currently learning Microsoft Power platforms, html, javascript, computer science
-- 💞️ I’m looking to collaborate on projects towards construction, automation and sustainability
+- 💞️ I’m looking to collaborate on projects towards construction and sustainability
 - 📫 How to reach me jonathan.paavola@myrental.se
 
 <!---
